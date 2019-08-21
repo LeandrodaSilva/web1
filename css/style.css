@@ -1,3 +1,7 @@
+body{
+    display: inline-block;
+    margin: 0 50px;
+}
 .resumo{
     display: inline-block;
     width: 60%;
